@@ -1,1 +1,3 @@
-remove: delete requirements.txt
+fastapi
+uvicorn
+requests
