@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "fastapidelibre"
+version = "0.1.0"
+description = ""
+authors = ["Agustin"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.100.0"
+uvicorn = "^0.22.0"
+requests = "^2.31.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
